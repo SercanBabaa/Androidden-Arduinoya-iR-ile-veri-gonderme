@@ -6,9 +6,9 @@ Proje Arduino Uno ve Xiaomi A2 Lite ile denendi.
 Android cihazda dahili kızılötesi donanımın bulunması gerekiyor.
 
 
-AndroidManifest.xml dosyasına
+AndroidManifest.xml dosyasında
 
-<uses-permission android:name="android.permission.TRANSMIT_IR"></uses-permission>
+android.permission.TRANSMIT_IR
 
 iznini vermeyi unutmayın.
 
